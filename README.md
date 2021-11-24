@@ -1,2 +1,2 @@
-# xxxRioxxxProtectorSC
-Advance System Protector by Me
+# PeProtector
+PeProtector protects executable files
